@@ -1,0 +1,20 @@
+
+html,body{
+    height: 100%;
+}
+
+.set-background {
+    background-image: url("download1.png");
+    height: 100%; 
+}
+
+.create-contact-avatar-input {
+    min-width: 500px;
+    height: 500px;
+    background-color: white;
+    background-image: url('download.jpeg');
+    background-size: 100px 100px;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 100%;
+  }
